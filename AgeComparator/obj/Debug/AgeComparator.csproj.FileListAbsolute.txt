@@ -1,0 +1,7 @@
+C:\Users\nikol\Desktop\Projects\Testovoe 1\AgeComparator\obj\Debug\AgeComparator.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Projects\Testovoe 1\AgeComparator\obj\Debug\AgeComparator.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Projects\Testovoe 1\AgeComparator\bin\Debug\AgeComparator.exe.config
+C:\Users\nikol\Desktop\Projects\Testovoe 1\AgeComparator\bin\Debug\AgeComparator.exe
+C:\Users\nikol\Desktop\Projects\Testovoe 1\AgeComparator\bin\Debug\AgeComparator.pdb
+C:\Users\nikol\Desktop\Projects\Testovoe 1\AgeComparator\obj\Debug\AgeComparator.exe
+C:\Users\nikol\Desktop\Projects\Testovoe 1\AgeComparator\obj\Debug\AgeComparator.pdb

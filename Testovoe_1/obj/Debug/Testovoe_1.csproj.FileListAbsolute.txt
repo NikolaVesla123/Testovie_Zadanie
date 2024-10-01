@@ -1,0 +1,7 @@
+C:\Users\nikol\Desktop\Projects\Testovoe 1\Testovoe_1\bin\Debug\Testovoe_1.exe.config
+C:\Users\nikol\Desktop\Projects\Testovoe 1\Testovoe_1\bin\Debug\Testovoe_1.exe
+C:\Users\nikol\Desktop\Projects\Testovoe 1\Testovoe_1\bin\Debug\Testovoe_1.pdb
+C:\Users\nikol\Desktop\Projects\Testovoe 1\Testovoe_1\obj\Debug\Testovoe_1.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Projects\Testovoe 1\Testovoe_1\obj\Debug\Testovoe_1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Projects\Testovoe 1\Testovoe_1\obj\Debug\Testovoe_1.exe
+C:\Users\nikol\Desktop\Projects\Testovoe 1\Testovoe_1\obj\Debug\Testovoe_1.pdb
